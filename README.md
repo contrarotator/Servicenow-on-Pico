@@ -1,2 +1,2 @@
 # Servicenow-on-Pico
-a proof of concept which creates a service now ticket from a Raspberry Pi Pico W
+A proof of concept which creates a ServiceNow ticket from a Raspberry Pi Pico W, lights the LED, and extinguishes the LED when the ticket is resolved.
